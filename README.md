@@ -55,3 +55,11 @@ Write an SQL query to find the highest payment amount for each check number from
 ---
 
 Good luck 🚀
+
+---
+
+## ❗ Submission Note
+
+**Date completed:** 17-September-2025  
+**Status:** This assignment was completed *after* the official submission deadline (Wednesday, 27-August-2025).  
+It is being submitted solely for learning and demonstration purposes, and I understand late submissions will not be reviewed.
